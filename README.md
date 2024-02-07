@@ -3,7 +3,7 @@
 
 ---
 
-- 🌱 I’m currently learning **MERN, Python**
+- 🌱 I’m currently learning **MERN, Python, Kotlin**
 
 - 💬 Ask me about **Web Development, OOP**
 
